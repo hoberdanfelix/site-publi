@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Olá, eu sou **Hoberdan**
-**(ele/dele)** • Desenvolvedor | ADS • Certificação **AWS Cloud Practitioner**
+• Desenvolvedor | ADS • Certificação **AWS Cloud Practitioner**•
 
 Apaixonado por backend Java e front moderno. Gosto de código limpo, automação e soluções escaláveis.
 
